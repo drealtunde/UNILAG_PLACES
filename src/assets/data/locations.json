@@ -1,0 +1,71 @@
+{
+    "locations": [
+ 
+        {
+            "title": "HRSC BUILDING",
+            "latitude": 6.511948,
+            "longitude": 3.388875
+        },
+        {
+            "title": "GT BANK",
+            "latitude":6.517085,
+            "longitude": 3.397716
+        },
+        {
+            "title": "YEM YEM STORES",
+            "latitude": 6.518389,
+            "longitude": 3.392385
+        },
+       
+        {
+            "title": "MOREMI HOSTEL",
+            "latitude": 6.5179,
+            "longitude": 3.3970
+        },
+        {
+            "title": "HONOURS HOSTEL",
+            "latitude": 6.5117,
+            "longitude": 3.3922
+        },
+        {
+            "title": "UNILAG PHARMACY",
+            "latitude": 6.5186,
+            "longitude": 3.3945
+        },
+        {
+            "title": "MEDICAL CENTRE",
+            "latitude": 6.514435,
+            "longitude": 3.396186
+        },
+        {
+            "title": "LAGOON FRONT",
+            "latitude":6.518964 ,
+            "longitude": 3.401134
+        },
+        {
+            "title": "FACULTY OF SCIENCE",
+            "latitude": 6.5169,
+            "longitude": 3.3875
+        },
+        {
+            "title": "FACULTY OF ENGINEERING",
+            "latitude": 6.5182,
+            "longitude": 3.3990
+        },
+        {
+            "title": "FACULTY OF LAW",
+            "latitude": 6.5169,
+            "longitude": 3.3875
+        },
+        {
+            "title": "SCHOOL OF POSTGRADUATE STUDIES",
+            "latitude":6.516588, 
+            "longitude": 3.387357
+        },
+        {
+            "title": "DISTANCE LEARNING INSTITUTE",
+            "latitude": 6.512721,
+            "longitude": 3.392921
+        }
+    ]
+}
